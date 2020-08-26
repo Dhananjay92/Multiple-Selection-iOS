@@ -3,6 +3,7 @@ INTUZ is presenting a Multiple Selection from tableview is used in Native iOS-ba
 
 <br/><br/>
 <h1>Features</h1>
+
 - Easy to implement.
 - Fully customizable component.
 - Costomize as per your reqiurement like single or multi selection.
