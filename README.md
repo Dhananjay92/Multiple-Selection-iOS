@@ -8,16 +8,14 @@ INTUZ is presenting a Multiple Selection from tableview is used in Native iOS-ba
 - Fully customizable component.
 - Costomize as per your reqiurement like single or multi selection.
 
-<br/><br/>
-
-<table>
   <tr>
     <td><img src="Screenshots/Screen1.png" width=320 height=568></td>
     <td><img src="Screenshots/Screen2.png" width=320 height=568></td>
     <td><img src="Screenshots/Screen3.png" width=320 height=568></td>
   </tr>
- </table>
-
+  
+  </table>
+<br/><br/>
 
 <br/><br/>
 **<h1>License</h1>**
